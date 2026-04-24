@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'Billions'
+        description: 'yuibnb'
         required: true
         default: 'yuibnb'
       agent_description:
